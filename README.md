@@ -1,7 +1,7 @@
 <h1>Vue3 Vite (TS)</h1>
 
 <p>
-  This is project generated to serve as a reproduction starter for Storybook.
+  This is project generated to serve as a reproduction starter for [storybook issue #21606](https://github.com/storybookjs/storybook/issues/21606).
 </p>
 
 <a
